@@ -1,0 +1,12 @@
+version: 1.0.2
+files:
+  - url: record-app-1.0.2-mac.zip
+    sha512: CHBiiil2RkhH7SPRKos57lK+zCLSZ1sSjg00dRZ4eh/YZl+JfF9F+u2h8UVfpFNq3j144sOe5QbgXvKw4LvTSg==
+    size: 62043437
+    blockMapSize: 65258
+  - url: record-app-1.0.2.dmg
+    sha512: CDpNkyuGx+MphNtD14/hlUgEsmjymNu1uNqVOCbQR1zAegP2f8JTvbASgsNhjfhgkG4a4nJ+FUMb66nXSkJIvA==
+    size: 64541211
+path: record-app-1.0.2-mac.zip
+sha512: CHBiiil2RkhH7SPRKos57lK+zCLSZ1sSjg00dRZ4eh/YZl+JfF9F+u2h8UVfpFNq3j144sOe5QbgXvKw4LvTSg==
+releaseDate: '2019-10-13T09:51:07.661Z'

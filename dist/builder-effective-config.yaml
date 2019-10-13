@@ -1,0 +1,7 @@
+directories:
+  output: dist
+  buildResources: build
+appId: app.id
+mac:
+  category: app.category
+electronVersion: 6.0.12
