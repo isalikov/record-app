@@ -1,12 +1,12 @@
 version: 1.0.2
 files:
-  - url: record-app-1.0.2-mac.zip
-    sha512: CHBiiil2RkhH7SPRKos57lK+zCLSZ1sSjg00dRZ4eh/YZl+JfF9F+u2h8UVfpFNq3j144sOe5QbgXvKw4LvTSg==
-    size: 62043437
-    blockMapSize: 65258
-  - url: record-app-1.0.2.dmg
-    sha512: CDpNkyuGx+MphNtD14/hlUgEsmjymNu1uNqVOCbQR1zAegP2f8JTvbASgsNhjfhgkG4a4nJ+FUMb66nXSkJIvA==
-    size: 64541211
-path: record-app-1.0.2-mac.zip
-sha512: CHBiiil2RkhH7SPRKos57lK+zCLSZ1sSjg00dRZ4eh/YZl+JfF9F+u2h8UVfpFNq3j144sOe5QbgXvKw4LvTSg==
-releaseDate: '2019-10-13T09:51:07.661Z'
+  - url: Radio-Record-1.0.2-mac.zip
+    sha512: vrRIm+32Km/VxU7CYGONy9xFSh+f+i7o/GYQq3tX0s4lhPASrUoTQEMcbUVxu5w/bxsNruY1Fg7gGIj5ppm5Wg==
+    size: 62045024
+    blockMapSize: 65343
+  - url: Radio-Record-1.0.2.dmg
+    sha512: ORAGp9mmBeB42PfZrh1rQMrw/YMNDu8XvmYESCKWBgLaRi4Gq8+y6BCtmmorpTxvgcqUu1lCwy3UEy16cSXxpg==
+    size: 64561292
+path: Radio-Record-1.0.2-mac.zip
+sha512: vrRIm+32Km/VxU7CYGONy9xFSh+f+i7o/GYQq3tX0s4lhPASrUoTQEMcbUVxu5w/bxsNruY1Fg7gGIj5ppm5Wg==
+releaseDate: '2019-10-13T13:24:14.683Z'

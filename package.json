@@ -16,6 +16,7 @@
   },
   "build": {
     "appId": "app.id",
+    "productName": "Radio Record",
     "mac": {
       "category": "app.category"
     }
